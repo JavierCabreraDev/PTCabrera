@@ -1,0 +1,14 @@
+﻿S.No;uid;$key;longitud;latitud;altura;velocidad;CantSat;azimuth;actividad;confianza;Y;X;Z;postionDop;horizontalDop;verticalDop;geoidHeight;date;;
+1;3DYaRfIFbvQxxof5R7DvmcyrjyE2;-Lq6IKR_BJe62-Qy3-7N;-715.409.951;-330.134.856;48.5;0.00036477643880061805;0;0;undefined;undefined;0;0;0;undefined;undefined;undefined;undefined;Tue; 1 Oct 2019; 09:30
+2;3DYaRfIFbvQxxof5R7DvmcyrjyE2;#¿NOMBRE?;-715.409.951;-330.134.856;48.5;0.00036477643880061805;0;0;undefined;undefined;0;0;0;undefined;undefined;undefined;undefined;Tue; 1 Oct 2019; 09:31
+3;3DYaRfIFbvQxxof5R7DvmcyrjyE2;#¿NOMBRE?;-715.409.961;-330.134.833;48.5;0.02513596974313259;0;0;undefined;undefined;0;0;0;undefined;undefined;undefined;undefined;Tue; 1 Oct 2019; 09:31
+4;3DYaRfIFbvQxxof5R7DvmcyrjyE2;#¿NOMBRE?;-715.409.971;-330.134.804;48.5;0;0;0;undefined;undefined;0;0;0;undefined;undefined;undefined;undefined;Tue; 1 Oct 2019; 09:36
+5;3DYaRfIFbvQxxof5R7DvmcyrjyE2;#¿NOMBRE?;-715.409.976;-33.013.486;4.839.999.771.118.160;0;0;0;undefined;undefined;0;0;0;undefined;undefined;undefined;undefined;Tue; 1 Oct 2019; 09:37
+6;3DYaRfIFbvQxxof5R7DvmcyrjyE2;#¿NOMBRE?;-715.409.975;-330.134.871;48.5;0;0;0;undefined;undefined;0;0;0;undefined;undefined;undefined;undefined;Tue; 1 Oct 2019; 09:38
+7;3DYaRfIFbvQxxof5R7DvmcyrjyE2;#¿NOMBRE?;-715.409.953;-330.134.814;48.5;0;0;0;undefined;undefined;0;0;0;undefined;undefined;undefined;undefined;Tue; 1 Oct 2019; 09:42
+8;3DYaRfIFbvQxxof5R7DvmcyrjyE2;#¿NOMBRE?;-715.409.973;-330.134.868;48.5;0;0;0;Tilting;100%;0;0;0;undefined;undefined;undefined;undefined;Tue; 1 Oct 2019; 09:43
+9;3DYaRfIFbvQxxof5R7DvmcyrjyE2;#¿NOMBRE?;-715.409.973;-330.134.868;48.5;0;0;0;Tilting;100%;0;0;0;undefined;undefined;undefined;undefined;Tue; 1 Oct 2019; 09:43
+10;3DYaRfIFbvQxxof5R7DvmcyrjyE2;#¿NOMBRE?;-715.409.972;-330.134.852;4.839.999.771.118.160;0.0017004749970510602;0;0;Tilting;100%;0;0;0;undefined;undefined;undefined;undefined;Tue; 1 Oct 2019; 09:43
+11;3DYaRfIFbvQxxof5R7DvmcyrjyE2;-Lq6MLfJ8E6yhOG4RGJ-;-715.409.959;-330.134.865;4.839.999.771.118.160;0;0;0;Tilting;100%;0;0;0;undefined;undefined;undefined;undefined;Tue; 1 Oct 2019; 09:48
+12;3DYaRfIFbvQxxof5R7DvmcyrjyE2;#¿NOMBRE?;-715.409.952;-330.134.851;4.839.999.771.118.160;0;0;0;Tilting;100%;0;0;0;undefined;undefined;undefined;undefined;Tue; 1 Oct 2019; 09:49
+13;3DYaRfIFbvQxxof5R7DvmcyrjyE2;#¿NOMBRE?;-715.410.098;-330.134.597;48.5;0;0;0;Tilting;100%;0;0;0;undefined;undefined;undefined;undefined;Tue; 1 Oct 2019; 09:52
