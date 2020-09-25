@@ -18,7 +18,7 @@
 |  | *Latitud y longitud en formato geografica | *latitud y longitud en otro formato geografico |  |
 |  | *Formato de hora es HH.MM.SS              | *Formato de hora es HH.MM                      |  |
 +--+-------------------------------------------+------------------------------------------------+--+
-|  | Se procede a descargar la data y guardarla en donde se valla a guarda estos archivos ya    |  |
+|  | Se procede a descargar la data y guardarla en donde se vaya a guarda estos archivos ya    |  |
 |  | que si guardamos el mismo archivo los cambios se descartaran!!                             |  |
 +--+--------------------------------------------------------------------------------------------+--+
 |  | Tras haber guardado se procede a preparar la data haciendo los siguientes pasos            |  |
