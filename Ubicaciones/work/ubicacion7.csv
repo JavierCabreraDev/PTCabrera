@@ -1,100 +1,100 @@
-S.No;uid;$key;longitud;latitud;altura;velocidad;CantSat;azimuth;actividad;confianza;Y;X;Z;postionDop;horizontalDop;verticalDop;geoidHeight;date;;
-1;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5447885;-33,0119058;40,79999924;7,20243E-06;0;219;undefined;undefined;6,558982372;0,36588189;7,722219944;undefined;undefined;undefined;undefined;mar.; 22 sep. 2020; 13:17:36
-2;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5442517;-33,0119675;40,79999924;7,8471241;19;1;Tilting;100%;740,5;-28,75;189,375;undefined;0,816;undefined;undefined;mar.; 22 sep. 2020; 13:17:46
-3;wRWQ3sFalBXu2ma1xFErXjMDda63;-MHqaomIIHoibT76qm6-;-71,5435523;-33,0121008;40,79999924;4,358350754;19;28;Tilting;100%;0,664630353;-0,201323643;8,566243172;undefined;88;undefined;undefined;mar.; 22 sep. 2020; 13:17:57
-4;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5431426;-33,0121945;40,79999924;4,106470108;19;28;In Vehicle;95%;1,058629751;1,809173703;10,39603519;undefined;88;undefined;undefined;mar.; 22 sep. 2020; 13:18:07
-5;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5424226;-33,0122989;40,09999847;8,467287064;19;297;In Vehicle;92%;-1,117239833;0,063676186;11,2878561;undefined;0,815;undefined;undefined;mar.; 22 sep. 2020; 13:18:18
-6;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5419591;-33,0118474;40,09999847;6,293015003;20;6;In Vehicle;92%;0,456162483;0,981842935;9,603315353;undefined;88;undefined;undefined;mar.; 22 sep. 2020; 13:18:29
-7;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5418093;-33,0112726;40,09999847;6,592875004;20;298;In Vehicle;94%;0,786092997;-0,528515279;11,22772408;undefined;88;undefined;undefined;mar.; 22 sep. 2020; 13:18:40
-8;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5416764;-33,0106404;40,09999847;4,696676731;20;298;In Vehicle;94%;-1,8590976;0,37923196;6,684132099;undefined;88;undefined;undefined;mar.; 22 sep. 2020; 13:18:51
-9;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5416425;-33,0104888;40,09999847;3,509622335;20;297;In Vehicle;97%;-0,597535253;0,451479405;10,44714737;undefined;88;undefined;undefined;mar.; 22 sep. 2020; 13:19:01
-10;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5416181;-33,0103293;41,29999924;4,036718845;20;299;In Vehicle;96%;11,1875;19,6875;0,1875;undefined;88;undefined;undefined;mar.; 22 sep. 2020; 13:19:11
-11;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5416665;-33,009531;41,29999924;8,295933723;20;293;In Vehicle;96%;10,5625;24,125;0,5625;undefined;0,761;undefined;undefined;mar.; 22 sep. 2020; 13:19:22
-12;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5417995;-33,0091891;41,29999924;0,562739849;20;287;In Vehicle;88%;9,8125;29,8125;-0,8125;undefined;0,761;undefined;undefined;mar.; 22 sep. 2020; 13:19:32
-13;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5421568;-33,0090915;41,59999847;3,471443176;20;130;In Vehicle;93%;-16,8125;11,25;24,75;undefined;0,761;undefined;undefined;mar.; 22 sep. 2020; 13:19:43
-14;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5424305;-33,0093935;41,09999847;6,283025742;20;263;In Vehicle;93%;1,577558637;0,58566004;-9,435481071;undefined;0,761;undefined;undefined;mar.; 22 sep. 2020; 13:19:54
-15;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5425133;-33,0095763;41;0,002507066;20;242;In Vehicle;96%;-7,0625;-10,375;20,25;undefined;88;undefined;undefined;mar.; 22 sep. 2020; 13:20:05
-16;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5425147;-33,0095749;41;7,81892E-06;20;323;In Vehicle;96%;-0,457646877;-8,28556633;2,531025648;undefined;88;undefined;undefined;mar.; 22 sep. 2020; 13:20:12
-17;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5425135;-33,0095775;41;0,328515649;0;44;undefined;undefined;3,719238997;1,334872842;-3,642442703;undefined;undefined;undefined;undefined;mar.; 22 sep. 2020; 13:20:14
-18;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5425041;-33,0096131;41,19999695;2,656205654;20;252;In Vehicle;96%;8,300803185;-1,456402421;5,619373322;undefined;88;undefined;undefined;mar.; 22 sep. 2020; 13:20:23
-19;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5425004;-33,0096843;41,19999695;3,654205084;20;245;undefined;undefined;1,625;38,8125;22,5625;undefined;88;undefined;undefined;mar.; 22 sep. 2020; 13:20:25
-20;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5425582;-33,0100931;41,29999924;3,474743128;20;240;In Vehicle;96%;6,063536167;-3,462255239;5,497077465;undefined;88;undefined;undefined;mar.; 22 sep. 2020; 13:20:34
-21;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5425682;-33,0101359;41,29999924;3,316777468;20;234;undefined;undefined;-9,75;27,75;28,25;undefined;88;undefined;undefined;mar.; 22 sep. 2020; 13:20:35
-22;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5426341;-33,0104255;41,29999924;3,712107658;20;53;undefined;undefined;9,245774269;3,504632473;-2,560196638;undefined;88;undefined;undefined;mar.; 22 sep. 2020; 13:20:45
-23;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5426405;-33,0105872;41,29999924;0,602317095;21;121;undefined;undefined;6,808975697;1,014088035;7,604520798;undefined;0,761;undefined;undefined;mar.; 22 sep. 2020; 13:20:56
-24;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5426811;-33,0107589;40,69999695;1,532719254;21;134;undefined;undefined;4,125879765;2,962652206;8,682514191;undefined;88;undefined;undefined;mar.; 22 sep. 2020; 13:21:07
-25;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5427277;-33,01095;40,59999847;0,017991472;21;10;undefined;undefined;0,22165519;-0,398835689;8,750884056;undefined;88;undefined;undefined;mar.; 22 sep. 2020; 13:21:18
-26;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5428305;-33,0110615;40,79999924;1,413597941;21;9;undefined;undefined;1,624465823;1,077888846;10,26944923;undefined;88;undefined;undefined;mar.; 22 sep. 2020; 13:21:28
-27;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5432879;-33,011005;40,79999924;4,855010033;21;51;In Vehicle;96%;0,936353147;0,713701963;11,54082775;undefined;88;undefined;undefined;mar.; 22 sep. 2020; 13:21:39
-28;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5439327;-33,0108931;40,79999924;2,602619171;21;50;undefined;undefined;-1,532652974;1,79126513;10,75017643;undefined;88;undefined;undefined;mar.; 22 sep. 2020; 13:21:50
-29;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,543898;-33,0104222;40,79999924;5,133402348;21;49;undefined;undefined;-0,3436158;-0,519714177;9,461463928;undefined;88;undefined;undefined;mar.; 22 sep. 2020; 13:22:01
-30;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5438821;-33,0101412;40,79999924;1,068886757;21;42;undefined;undefined;37,0625;-34,9375;-12,25;undefined;0,732;undefined;undefined;mar.; 22 sep. 2020; 13:22:11
-31;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5438975;-33,0101729;40,79999924;0,000633836;21;74;undefined;undefined;5,026693344;-5,244680882;1,692805886;undefined;0,732;undefined;undefined;mar.; 22 sep. 2020; 13:22:21
-32;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5438985;-33,0101738;40,69999695;2,59E-07;21;34;undefined;undefined;29,875;-26,3125;-24,6875;undefined;0,732;undefined;undefined;mar.; 22 sep. 2020; 13:22:32
-33;wRWQ3sFalBXu2ma1xFErXjMDda63;-MHqc8V-Ivj-c5QfK4fi;-71,543838;-33,0101956;40,79999924;1,87014E-05;21;20;undefined;undefined;1,892645121;0,208841428;9,625667572;undefined;88;88;undefined;mar.; 22 sep. 2020; 13:23:44
-34;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5438377;-33,0101956;40,79999924;2,28E-08;21;19;undefined;undefined;34,5;-14,75;-32,8125;undefined;0,832;88;undefined;mar.; 22 sep. 2020; 13:23:54
-35;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5438372;-33,010197;40,79999924;0,608457744;21;21;undefined;undefined;1,939552426;0,164797693;9,623608589;undefined;88;88;undefined;mar.; 22 sep. 2020; 13:24:05
-36;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5438153;-33,010004;40,79999924;1,901183128;21;27;undefined;undefined;1,1746912;-1,354591489;9,842668533;undefined;87;88;undefined;mar.; 22 sep. 2020; 13:24:15
-37;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5438162;-33,0098923;40,79999924;3,269727468;21;21;undefined;undefined;2,816414356;-0,274921387;9,166651726;undefined;87;88;undefined;mar.; 22 sep. 2020; 13:24:25
-38;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5436223;-33,0092138;40,79999924;6,595655441;21;27;undefined;undefined;0,611479104;-1,009318829;9,783291817;undefined;87;88;undefined;mar.; 22 sep. 2020; 13:24:36
-39;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5435244;-33,0089859;40,79999924;0,000572844;21;22;undefined;undefined;2,062939882;-0,38176024;9,325597763;undefined;88;88;undefined;mar.; 22 sep. 2020; 13:24:46
-40;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,543524;-33,0089866;42,09999847;6,48E-07;21;22;undefined;undefined;1,943612933;-0,432316214;9,214421272;undefined;88;88;undefined;mar.; 22 sep. 2020; 13:24:56
-41;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5435151;-33,0089353;42,79999924;3,730037451;21;9;undefined;undefined;2,279040575;2,82502389;8,473587036;undefined;88;88;undefined;mar.; 22 sep. 2020; 13:25:18
-42;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5429186;-33,0089597;42,79999924;7,592831135;21;61;In Vehicle;96%;1,886410594;-1,109693408;9,843874931;undefined;88;88;undefined;mar.; 22 sep. 2020; 13:25:28
-43;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5423817;-33,0091691;42,79999924;4,454734802;21;90;undefined;undefined;1,549479485;-1,802220941;11,29837227;undefined;88;88;undefined;mar.; 22 sep. 2020; 13:25:39
-44;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5424928;-33,0096334;41,19999695;4,054211617;21;84;In Vehicle;96%;1,252129197;0,560760319;9,511722565;undefined;88;88;undefined;mar.; 22 sep. 2020; 13:25:50
-45;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5425095;-33,0097568;41;0,000254825;21;87;undefined;undefined;-3,8125;-12,5625;-23,125;undefined;88;88;undefined;mar.; 22 sep. 2020; 13:26:00
-46;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5425092;-33,009757;41;9,52E-08;21;86;undefined;undefined;1,918722749;-0,589452446;9,409078598;undefined;88;88;undefined;mar.; 22 sep. 2020; 13:26:10
-47;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5425541;-33,0098559;41,29999924;3,098101854;21;88;undefined;undefined;-4,3125;-10,9375;-23;undefined;88;88;undefined;mar.; 22 sep. 2020; 13:26:20
-48;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5426314;-33,0102217;41;3,294166803;21;98;undefined;undefined;1,213247299;-1,005995631;11,26409626;undefined;87;88;undefined;mar.; 22 sep. 2020; 13:26:31
-49;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5427154;-33,0107419;41;5,656721592;21;87;undefined;undefined;2,110967636;0,471427888;11,76502991;undefined;87;88;undefined;mar.; 22 sep. 2020; 13:26:42
-50;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5428046;-33,0110455;41;1,931156039;21;350;undefined;undefined;3,258106232;-0,264961511;9,444809914;undefined;87;88;undefined;mar.; 22 sep. 2020; 13:26:53
-51;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5434969;-33,0109657;41;7,712904453;21;356;undefined;undefined;17,25;3,0625;-27,875;undefined;87;88;undefined;mar.; 22 sep. 2020; 13:27:03
-52;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,544394;-33,010852;41;7,594089985;21;349;undefined;undefined;1,886334062;0,639290154;9,079061508;undefined;87;88;undefined;mar.; 22 sep. 2020; 13:27:14
-53;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5451096;-33,0107606;37,13133698;4,797892094;21;356;undefined;undefined;3,320604563;-0,03982994;9,064495087;undefined;87;88;undefined;mar.; 22 sep. 2020; 13:27:25
-54;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5458752;-33,0106346;32,47236156;7,21074152;21;353;undefined;undefined;2,390179396;-1,156811237;10,76127529;undefined;88;88;undefined;mar.; 22 sep. 2020; 13:27:36
-55;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5464592;-33,0104827;31,23153787;5,15592432;21;26;undefined;undefined;1,982159495;-0,516678274;10,27930355;undefined;0,772;88;undefined;mar.; 22 sep. 2020; 13:27:46
-56;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5463002;-33,0097602;31,96323402;6,317374229;21;28;undefined;undefined;1,295799494;-1,148565531;9,745473862;undefined;0,729;88;undefined;mar.; 22 sep. 2020; 13:27:57
-57;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5458387;-33,0095377;36,9955443;6,911441803;21;45;undefined;undefined;9,094882965;0,133644328;6,429504395;undefined;0,802;88;undefined;mar.; 22 sep. 2020; 13:28:08
-58;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5452464;-33,0097336;33,79464054;3,068868876;21;45;undefined;undefined;8,877019882;0,297177881;4,175171852;undefined;0,802;88;undefined;mar.; 22 sep. 2020; 13:28:19
-59;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5446006;-33,0098293;31,53488602;7,300122738;21;54;undefined;undefined;6,767680168;-0,080224909;6,549329281;undefined;88;88;undefined;mar.; 22 sep. 2020; 13:28:30
-60;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5438308;-33,0099267;30,58635425;4,252775192;21;30;undefined;undefined;6,589982986;-0,442774087;8,358761787;undefined;88;88;undefined;mar.; 22 sep. 2020; 13:28:40
-61;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5437177;-33,0095525;40,89999771;0,240188375;21;357;undefined;undefined;0,153947175;-0,359072775;9,631624222;undefined;88;88;undefined;mar.; 22 sep. 2020; 13:28:50
-62;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5437444;-33,0096112;40,89999771;0,051409382;21;1;undefined;undefined;49,125;-1,6875;-20,5625;undefined;88;88;undefined;mar.; 22 sep. 2020; 13:29:00
-63;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5437506;-33,0096186;40,89999771;0,352710456;21;1;undefined;undefined;-0,756510258;0,032216378;10,74466038;undefined;88;88;undefined;mar.; 22 sep. 2020; 13:29:11
-64;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5437564;-33,0096308;40,89999771;0,000224196;21;357;undefined;undefined;0,261427671;0,510721505;10,12358475;undefined;88;88;undefined;mar.; 22 sep. 2020; 13:29:21
-65;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5437565;-33,0096311;40,89999771;3,99E-08;21;356;undefined;undefined;-0,635861695;0,34918955;10,93039227;undefined;88;88;undefined;mar.; 22 sep. 2020; 13:29:32
-66;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5436815;-33,0094298;47,09999847;6,33350563;21;345;undefined;undefined;32,8125;8,125;1,5;undefined;88;88;undefined;mar.; 22 sep. 2020; 13:30:55
-67;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5436328;-33,0091142;47,09999847;0,000303462;21;345;undefined;undefined;3,257081509;0,22577323;9,264545441;undefined;88;88;undefined;mar.; 22 sep. 2020; 13:31:06
-68;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5436333;-33,0091146;42,79999924;3,56E-07;21;344;undefined;undefined;3,500600576;0,117938377;8,909648895;undefined;0,798;88;undefined;mar.; 22 sep. 2020; 13:31:16
-69;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5436161;-33,0089548;42,79999924;3,192393541;21;356;undefined;undefined;2,729964495;2,630279541;8,146414757;undefined;88;88;undefined;mar.; 22 sep. 2020; 13:31:27
-70;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5428894;-33,0089876;42,79999924;8,018258095;21;41;undefined;undefined;2,702450514;1,085109591;10,01041603;undefined;0,797;88;undefined;mar.; 22 sep. 2020; 13:31:37
-71;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5425361;-33,0090445;42,79999924;1,929714084;21;48;undefined;undefined;3,925198078;0,363774985;8,129627228;undefined;87;88;undefined;mar.; 22 sep. 2020; 13:31:47
-72;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5424813;-33,0095244;42,79999924;6,660097599;21;229;undefined;undefined;-4,125;13,75;16,8125;undefined;88;88;undefined;mar.; 22 sep. 2020; 13:31:58
-73;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5425228;-33,0097527;41;1,7969E-05;21;230;undefined;undefined;3,366209269;-0,001742979;8,753421783;undefined;87;88;undefined;mar.; 22 sep. 2020; 13:32:09
-74;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5425517;-33,0098471;41,29999924;2,694996119;21;237;In Vehicle;96%;3,723548651;0,162681207;11,85876846;undefined;87;88;undefined;mar.; 22 sep. 2020; 13:32:20
-75;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5426783;-33,0102785;41,29999924;3,528358936;21;232;undefined;undefined;-4,0625;12,75;16,625;undefined;87;88;undefined;mar.; 22 sep. 2020; 13:32:31
-76;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5427329;-33,0106985;41,29999924;3,586852312;21;231;undefined;undefined;3,9909904;0,523583174;9,227196693;undefined;87;88;undefined;mar.; 22 sep. 2020; 13:32:41
-77;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5428532;-33,0112971;41,29999924;5,502271175;21;243;undefined;undefined;3,903630972;-1,077103496;14,764678;undefined;87;88;undefined;mar.; 22 sep. 2020; 13:32:52
-78;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5429344;-33,0117896;41,29999924;3,443721056;21;208;undefined;undefined;2,019719839;1,614841223;4,713445663;undefined;87;88;undefined;mar.; 22 sep. 2020; 13:33:02
-79;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5430182;-33,012232;41,29999924;5,499943733;21;233;undefined;undefined;3,06940484;-0,863473654;8,648920059;undefined;87;88;undefined;mar.; 22 sep. 2020; 13:33:13
-80;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5432449;-33,0129964;41,29999924;4,306235313;21;223;undefined;undefined;3,789015532;2,586666822;9,835868835;undefined;87;88;undefined;mar.; 22 sep. 2020; 13:33:24
-81;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5438351;-33,01306;44,95443924;7,63160181;22;293;undefined;undefined;3,194305658;1,159071326;9,810432434;undefined;87;88;undefined;mar.; 22 sep. 2020; 13:33:34
-82;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5447421;-33,012963;40,83106468;8,569659233;21;295;undefined;undefined;4,665360451;0,385418594;13,40270329;undefined;87;88;undefined;mar.; 22 sep. 2020; 13:33:44
-83;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,545666;-33,0128177;36,78107134;8,40342617;21;295;undefined;undefined;15,4375;25,4375;7;undefined;87;88;undefined;mar.; 22 sep. 2020; 13:33:54
-84;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5464835;-33,0126839;34,3049766;6,984577656;21;295;undefined;undefined;3,231798887;0,08483135;10,9198103;undefined;87;88;undefined;mar.; 22 sep. 2020; 13:34:04
-85;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5467899;-33,012307;34,73521047;8,269095421;21;345;undefined;undefined;3,698074579;0,465519011;7,907636166;undefined;87;88;undefined;mar.; 22 sep. 2020; 13:34:15
-86;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5466549;-33,0116732;33,32175963;3,315310955;21;346;undefined;undefined;2,131117105;0,567444921;9,533949852;undefined;87;88;undefined;mar.; 22 sep. 2020; 13:34:25
-87;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5465277;-33,0116071;31,63510785;3,550545216;21;36;undefined;undefined;3,893852949;0,864977181;8,154335022;undefined;88;88;undefined;mar.; 22 sep. 2020; 13:34:35
-88;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5456087;-33,0117681;32,42408826;7,628079414;21;48;undefined;undefined;13,375;-5,0625;13,375;undefined;88;88;undefined;mar.; 22 sep. 2020; 13:34:46
-89;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5447078;-33,0119206;32,7738843;7,833237171;21;35;undefined;undefined;12,8125;-5,4375;12,1875;undefined;88;88;undefined;mar.; 22 sep. 2020; 13:34:56
-90;wRWQ3sFalBXu2ma1xFErXjMDda63;-MHqekEeTXX72j_Uvif-;-71,5437641;-33,0120403;31,41443236;6,609312534;21;29;undefined;undefined;2,260423422;-0,247014567;12,80801201;undefined;0,792;88;undefined;mar.; 22 sep. 2020; 13:35:07
-91;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5433892;-33,0120921;31,94803201;0,037244733;21;41;undefined;undefined;3,267175436;0,502581239;9,229235649;undefined;87;88;undefined;mar.; 22 sep. 2020; 13:35:17
-92;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5434088;-33,0120881;40,5;8,21675E-05;21;44;undefined;undefined;12,125;-5,625;12,8125;undefined;87;88;undefined;mar.; 22 sep. 2020; 13:35:27
-93;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5434091;-33,0120881;40,69999695;2,02745E-05;21;47;undefined;undefined;3,38129282;0,56867075;9,298974037;undefined;87;88;undefined;mar.; 22 sep. 2020; 13:35:38
-94;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5434092;-33,0120881;40,69999695;7,75567E-06;21;50;undefined;undefined;12,125;-5,6875;14,8125;undefined;87;88;undefined;mar.; 22 sep. 2020; 13:35:49
-95;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5433053;-33,012116;39,69999695;2,822532892;21;56;undefined;undefined;11,375;-7,25;13,0625;undefined;81;87;undefined;mar.; 22 sep. 2020; 13:35:59
-96;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5428763;-33,0121583;39,69999695;3,661952019;21;48;undefined;undefined;13;-6,5625;12,8125;undefined;80;81;undefined;mar.; 22 sep. 2020; 13:36:09
-97;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5426267;-33,0121986;39,69999695;0,000523825;21;82;undefined;undefined;5,687224865;-0,745228827;9,804677963;undefined;80;81;undefined;mar.; 22 sep. 2020; 13:36:20
-98;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5422496;-33,012273;40,09999847;0,014602118;21;116;undefined;undefined;6,927325726;0,272757053;6,539934158;undefined;0,79;88;undefined;mar.; 22 sep. 2020; 13:36:31
-99;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5422389;-33,0122748;40,5;8,68E-07;21;108;undefined;undefined;6,618904591;-0,060420074;7,1214571;undefined;0,79;88;undefined;mar.; 22 sep. 2020; 13:36:42
+S.No;uid;$key;longitud;latitud;altura;velocidad;CantSat;azimuth;actividad;confianza;postionDop;horizontalDop;verticalDop;geoidHeight;Day;dDate;Time
+1;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5447885;-33,0119058;40,79999924;0,0;0;219;undefined;undefined;undefined;undefined;undefined;undefined;mar.; 22 sep. 2020; 13:17:36
+2;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5442517;-33,0119675;40,79999924;7,8;19;1;Tilting;100%;undefined;0,816;undefined;undefined;mar.; 22 sep. 2020; 13:17:46
+3;wRWQ3sFalBXu2ma1xFErXjMDda63;-MHqaomIIHoibT76qm6-;-71,5435523;-33,0121008;40,79999924;4,4;19;28;Tilting;100%;undefined;88;undefined;undefined;mar.; 22 sep. 2020; 13:17:57
+4;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5431426;-33,0121945;40,79999924;4,1;19;28;In Vehicle;95%;undefined;88;undefined;undefined;mar.; 22 sep. 2020; 13:18:07
+5;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5424226;-33,0122989;40,09999847;8,5;19;297;In Vehicle;92%;undefined;0,815;undefined;undefined;mar.; 22 sep. 2020; 13:18:18
+6;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5419591;-33,0118474;40,09999847;6,3;20;6;In Vehicle;92%;undefined;88;undefined;undefined;mar.; 22 sep. 2020; 13:18:29
+7;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5418093;-33,0112726;40,09999847;6,6;20;298;In Vehicle;94%;undefined;88;undefined;undefined;mar.; 22 sep. 2020; 13:18:40
+8;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5416764;-33,0106404;40,09999847;4,7;20;298;In Vehicle;94%;undefined;88;undefined;undefined;mar.; 22 sep. 2020; 13:18:51
+9;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5416425;-33,0104888;40,09999847;3,5;20;297;In Vehicle;97%;undefined;88;undefined;undefined;mar.; 22 sep. 2020; 13:19:01
+10;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5416181;-33,0103293;41,29999924;4,0;20;299;In Vehicle;96%;undefined;88;undefined;undefined;mar.; 22 sep. 2020; 13:19:11
+11;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5416665;-33,009531;41,29999924;8,3;20;293;In Vehicle;96%;undefined;0,761;undefined;undefined;mar.; 22 sep. 2020; 13:19:22
+12;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5417995;-33,0091891;41,29999924;0,6;20;287;In Vehicle;88%;undefined;0,761;undefined;undefined;mar.; 22 sep. 2020; 13:19:32
+13;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5421568;-33,0090915;41,59999847;3,5;20;130;In Vehicle;93%;undefined;0,761;undefined;undefined;mar.; 22 sep. 2020; 13:19:43
+14;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5424305;-33,0093935;41,09999847;6,3;20;263;In Vehicle;93%;undefined;0,761;undefined;undefined;mar.; 22 sep. 2020; 13:19:54
+15;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5425133;-33,0095763;41;0,0;20;242;In Vehicle;96%;undefined;88;undefined;undefined;mar.; 22 sep. 2020; 13:20:05
+16;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5425147;-33,0095749;41;0,0;20;323;In Vehicle;96%;undefined;88;undefined;undefined;mar.; 22 sep. 2020; 13:20:12
+17;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5425135;-33,0095775;41;0,3;0;44;undefined;undefined;undefined;undefined;undefined;undefined;mar.; 22 sep. 2020; 13:20:14
+18;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5425041;-33,0096131;41,19999695;2,7;20;252;In Vehicle;96%;undefined;88;undefined;undefined;mar.; 22 sep. 2020; 13:20:23
+19;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5425004;-33,0096843;41,19999695;3,7;20;245;undefined;undefined;undefined;88;undefined;undefined;mar.; 22 sep. 2020; 13:20:25
+20;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5425582;-33,0100931;41,29999924;3,5;20;240;In Vehicle;96%;undefined;88;undefined;undefined;mar.; 22 sep. 2020; 13:20:34
+21;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5425682;-33,0101359;41,29999924;3,3;20;234;undefined;undefined;undefined;88;undefined;undefined;mar.; 22 sep. 2020; 13:20:35
+22;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5426341;-33,0104255;41,29999924;3,7;20;53;undefined;undefined;undefined;88;undefined;undefined;mar.; 22 sep. 2020; 13:20:45
+23;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5426405;-33,0105872;41,29999924;0,6;21;121;undefined;undefined;undefined;0,761;undefined;undefined;mar.; 22 sep. 2020; 13:20:56
+24;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5426811;-33,0107589;40,69999695;1,5;21;134;undefined;undefined;undefined;88;undefined;undefined;mar.; 22 sep. 2020; 13:21:07
+25;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5427277;-33,01095;40,59999847;0,0;21;10;undefined;undefined;undefined;88;undefined;undefined;mar.; 22 sep. 2020; 13:21:18
+26;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5428305;-33,0110615;40,79999924;1,4;21;9;undefined;undefined;undefined;88;undefined;undefined;mar.; 22 sep. 2020; 13:21:28
+27;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5432879;-33,011005;40,79999924;4,9;21;51;In Vehicle;96%;undefined;88;undefined;undefined;mar.; 22 sep. 2020; 13:21:39
+28;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5439327;-33,0108931;40,79999924;2,6;21;50;undefined;undefined;undefined;88;undefined;undefined;mar.; 22 sep. 2020; 13:21:50
+29;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,543898;-33,0104222;40,79999924;5,1;21;49;undefined;undefined;undefined;88;undefined;undefined;mar.; 22 sep. 2020; 13:22:01
+30;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5438821;-33,0101412;40,79999924;1,1;21;42;undefined;undefined;undefined;0,732;undefined;undefined;mar.; 22 sep. 2020; 13:22:11
+31;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5438975;-33,0101729;40,79999924;0,0;21;74;undefined;undefined;undefined;0,732;undefined;undefined;mar.; 22 sep. 2020; 13:22:21
+32;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5438985;-33,0101738;40,69999695;0,0;21;34;undefined;undefined;undefined;0,732;undefined;undefined;mar.; 22 sep. 2020; 13:22:32
+33;wRWQ3sFalBXu2ma1xFErXjMDda63;-MHqc8V-Ivj-c5QfK4fi;-71,543838;-33,0101956;40,79999924;0,0;21;20;undefined;undefined;undefined;88;88;undefined;mar.; 22 sep. 2020; 13:23:44
+34;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5438377;-33,0101956;40,79999924;0,0;21;19;undefined;undefined;undefined;0,832;88;undefined;mar.; 22 sep. 2020; 13:23:54
+35;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5438372;-33,010197;40,79999924;0,6;21;21;undefined;undefined;undefined;88;88;undefined;mar.; 22 sep. 2020; 13:24:05
+36;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5438153;-33,010004;40,79999924;1,9;21;27;undefined;undefined;undefined;87;88;undefined;mar.; 22 sep. 2020; 13:24:15
+37;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5438162;-33,0098923;40,79999924;3,3;21;21;undefined;undefined;undefined;87;88;undefined;mar.; 22 sep. 2020; 13:24:25
+38;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5436223;-33,0092138;40,79999924;6,6;21;27;undefined;undefined;undefined;87;88;undefined;mar.; 22 sep. 2020; 13:24:36
+39;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5435244;-33,0089859;40,79999924;0,0;21;22;undefined;undefined;undefined;88;88;undefined;mar.; 22 sep. 2020; 13:24:46
+40;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,543524;-33,0089866;42,09999847;0,0;21;22;undefined;undefined;undefined;88;88;undefined;mar.; 22 sep. 2020; 13:24:56
+41;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5435151;-33,0089353;42,79999924;3,7;21;9;undefined;undefined;undefined;88;88;undefined;mar.; 22 sep. 2020; 13:25:18
+42;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5429186;-33,0089597;42,79999924;7,6;21;61;In Vehicle;96%;undefined;88;88;undefined;mar.; 22 sep. 2020; 13:25:28
+43;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5423817;-33,0091691;42,79999924;4,5;21;90;undefined;undefined;undefined;88;88;undefined;mar.; 22 sep. 2020; 13:25:39
+44;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5424928;-33,0096334;41,19999695;4,1;21;84;In Vehicle;96%;undefined;88;88;undefined;mar.; 22 sep. 2020; 13:25:50
+45;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5425095;-33,0097568;41;0,0;21;87;undefined;undefined;undefined;88;88;undefined;mar.; 22 sep. 2020; 13:26:00
+46;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5425092;-33,009757;41;0,0;21;86;undefined;undefined;undefined;88;88;undefined;mar.; 22 sep. 2020; 13:26:10
+47;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5425541;-33,0098559;41,29999924;3,1;21;88;undefined;undefined;undefined;88;88;undefined;mar.; 22 sep. 2020; 13:26:20
+48;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5426314;-33,0102217;41;3,3;21;98;undefined;undefined;undefined;87;88;undefined;mar.; 22 sep. 2020; 13:26:31
+49;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5427154;-33,0107419;41;5,7;21;87;undefined;undefined;undefined;87;88;undefined;mar.; 22 sep. 2020; 13:26:42
+50;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5428046;-33,0110455;41;1,9;21;350;undefined;undefined;undefined;87;88;undefined;mar.; 22 sep. 2020; 13:26:53
+51;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5434969;-33,0109657;41;7,7;21;356;undefined;undefined;undefined;87;88;undefined;mar.; 22 sep. 2020; 13:27:03
+52;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,544394;-33,010852;41;7,6;21;349;undefined;undefined;undefined;87;88;undefined;mar.; 22 sep. 2020; 13:27:14
+53;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5451096;-33,0107606;37,13133698;4,8;21;356;undefined;undefined;undefined;87;88;undefined;mar.; 22 sep. 2020; 13:27:25
+54;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5458752;-33,0106346;32,47236156;7,2;21;353;undefined;undefined;undefined;88;88;undefined;mar.; 22 sep. 2020; 13:27:36
+55;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5464592;-33,0104827;31,23153787;5,2;21;26;undefined;undefined;undefined;0,772;88;undefined;mar.; 22 sep. 2020; 13:27:46
+56;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5463002;-33,0097602;31,96323402;6,3;21;28;undefined;undefined;undefined;0,729;88;undefined;mar.; 22 sep. 2020; 13:27:57
+57;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5458387;-33,0095377;36,9955443;6,9;21;45;undefined;undefined;undefined;0,802;88;undefined;mar.; 22 sep. 2020; 13:28:08
+58;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5452464;-33,0097336;33,79464054;3,1;21;45;undefined;undefined;undefined;0,802;88;undefined;mar.; 22 sep. 2020; 13:28:19
+59;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5446006;-33,0098293;31,53488602;7,3;21;54;undefined;undefined;undefined;88;88;undefined;mar.; 22 sep. 2020; 13:28:30
+60;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5438308;-33,0099267;30,58635425;4,3;21;30;undefined;undefined;undefined;88;88;undefined;mar.; 22 sep. 2020; 13:28:40
+61;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5437177;-33,0095525;40,89999771;0,2;21;357;undefined;undefined;undefined;88;88;undefined;mar.; 22 sep. 2020; 13:28:50
+62;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5437444;-33,0096112;40,89999771;0,1;21;1;undefined;undefined;undefined;88;88;undefined;mar.; 22 sep. 2020; 13:29:00
+63;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5437506;-33,0096186;40,89999771;0,4;21;1;undefined;undefined;undefined;88;88;undefined;mar.; 22 sep. 2020; 13:29:11
+64;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5437564;-33,0096308;40,89999771;0,0;21;357;undefined;undefined;undefined;88;88;undefined;mar.; 22 sep. 2020; 13:29:21
+65;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5437565;-33,0096311;40,89999771;0,0;21;356;undefined;undefined;undefined;88;88;undefined;mar.; 22 sep. 2020; 13:29:32
+66;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5436815;-33,0094298;47,09999847;6,3;21;345;undefined;undefined;undefined;88;88;undefined;mar.; 22 sep. 2020; 13:30:55
+67;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5436328;-33,0091142;47,09999847;0,0;21;345;undefined;undefined;undefined;88;88;undefined;mar.; 22 sep. 2020; 13:31:06
+68;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5436333;-33,0091146;42,79999924;0,0;21;344;undefined;undefined;undefined;0,798;88;undefined;mar.; 22 sep. 2020; 13:31:16
+69;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5436161;-33,0089548;42,79999924;3,2;21;356;undefined;undefined;undefined;88;88;undefined;mar.; 22 sep. 2020; 13:31:27
+70;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5428894;-33,0089876;42,79999924;8,0;21;41;undefined;undefined;undefined;0,797;88;undefined;mar.; 22 sep. 2020; 13:31:37
+71;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5425361;-33,0090445;42,79999924;1,9;21;48;undefined;undefined;undefined;87;88;undefined;mar.; 22 sep. 2020; 13:31:47
+72;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5424813;-33,0095244;42,79999924;6,7;21;229;undefined;undefined;undefined;88;88;undefined;mar.; 22 sep. 2020; 13:31:58
+73;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5425228;-33,0097527;41;0,0;21;230;undefined;undefined;undefined;87;88;undefined;mar.; 22 sep. 2020; 13:32:09
+74;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5425517;-33,0098471;41,29999924;2,7;21;237;In Vehicle;96%;undefined;87;88;undefined;mar.; 22 sep. 2020; 13:32:20
+75;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5426783;-33,0102785;41,29999924;3,5;21;232;undefined;undefined;undefined;87;88;undefined;mar.; 22 sep. 2020; 13:32:31
+76;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5427329;-33,0106985;41,29999924;3,6;21;231;undefined;undefined;undefined;87;88;undefined;mar.; 22 sep. 2020; 13:32:41
+77;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5428532;-33,0112971;41,29999924;5,5;21;243;undefined;undefined;undefined;87;88;undefined;mar.; 22 sep. 2020; 13:32:52
+78;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5429344;-33,0117896;41,29999924;3,4;21;208;undefined;undefined;undefined;87;88;undefined;mar.; 22 sep. 2020; 13:33:02
+79;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5430182;-33,012232;41,29999924;5,5;21;233;undefined;undefined;undefined;87;88;undefined;mar.; 22 sep. 2020; 13:33:13
+80;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5432449;-33,0129964;41,29999924;4,3;21;223;undefined;undefined;undefined;87;88;undefined;mar.; 22 sep. 2020; 13:33:24
+81;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5438351;-33,01306;44,95443924;7,6;22;293;undefined;undefined;undefined;87;88;undefined;mar.; 22 sep. 2020; 13:33:34
+82;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5447421;-33,012963;40,83106468;8,6;21;295;undefined;undefined;undefined;87;88;undefined;mar.; 22 sep. 2020; 13:33:44
+83;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,545666;-33,0128177;36,78107134;8,4;21;295;undefined;undefined;undefined;87;88;undefined;mar.; 22 sep. 2020; 13:33:54
+84;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5464835;-33,0126839;34,3049766;7,0;21;295;undefined;undefined;undefined;87;88;undefined;mar.; 22 sep. 2020; 13:34:04
+85;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5467899;-33,012307;34,73521047;8,3;21;345;undefined;undefined;undefined;87;88;undefined;mar.; 22 sep. 2020; 13:34:15
+86;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5466549;-33,0116732;33,32175963;3,3;21;346;undefined;undefined;undefined;87;88;undefined;mar.; 22 sep. 2020; 13:34:25
+87;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5465277;-33,0116071;31,63510785;3,6;21;36;undefined;undefined;undefined;88;88;undefined;mar.; 22 sep. 2020; 13:34:35
+88;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5456087;-33,0117681;32,42408826;7,6;21;48;undefined;undefined;undefined;88;88;undefined;mar.; 22 sep. 2020; 13:34:46
+89;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5447078;-33,0119206;32,7738843;7,8;21;35;undefined;undefined;undefined;88;88;undefined;mar.; 22 sep. 2020; 13:34:56
+90;wRWQ3sFalBXu2ma1xFErXjMDda63;-MHqekEeTXX72j_Uvif-;-71,5437641;-33,0120403;31,41443236;6,6;21;29;undefined;undefined;undefined;0,792;88;undefined;mar.; 22 sep. 2020; 13:35:07
+91;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5433892;-33,0120921;31,94803201;0,0;21;41;undefined;undefined;undefined;87;88;undefined;mar.; 22 sep. 2020; 13:35:17
+92;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5434088;-33,0120881;40,5;0,0;21;44;undefined;undefined;undefined;87;88;undefined;mar.; 22 sep. 2020; 13:35:27
+93;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5434091;-33,0120881;40,69999695;0,0;21;47;undefined;undefined;undefined;87;88;undefined;mar.; 22 sep. 2020; 13:35:38
+94;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5434092;-33,0120881;40,69999695;0,0;21;50;undefined;undefined;undefined;87;88;undefined;mar.; 22 sep. 2020; 13:35:49
+95;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5433053;-33,012116;39,69999695;2,8;21;56;undefined;undefined;undefined;81;87;undefined;mar.; 22 sep. 2020; 13:35:59
+96;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5428763;-33,0121583;39,69999695;3,7;21;48;undefined;undefined;undefined;80;81;undefined;mar.; 22 sep. 2020; 13:36:09
+97;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5426267;-33,0121986;39,69999695;0,0;21;82;undefined;undefined;undefined;80;81;undefined;mar.; 22 sep. 2020; 13:36:20
+98;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5422496;-33,012273;40,09999847;0,0;21;116;undefined;undefined;undefined;0,79;88;undefined;mar.; 22 sep. 2020; 13:36:31
+99;wRWQ3sFalBXu2ma1xFErXjMDda63;#¨NOMBRE?;-71,5422389;-33,0122748;40,5;0,0;21;108;undefined;undefined;undefined;0,79;88;undefined;mar.; 22 sep. 2020; 13:36:42

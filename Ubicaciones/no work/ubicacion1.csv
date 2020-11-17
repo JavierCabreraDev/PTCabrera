@@ -1,0 +1,106 @@
+﻿S.No;uid;$key;longitud;latitud;altura; velocidad ;CantSat;azimuth;actividad;confianza;postionDop;horizontalDop;verticalDop;geoidHeight;Day;dDate;Time
+1;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5485966;-33,0113187;40,59999847;0;0;148;undefined;undefined;undefined;undefined;undefined;undefined;lun.; 10 ago. 2020; 15:06:42
+2;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5485947;-33,0113093;40,39999771;0;17;148;undefined;undefined;undefined;100;undefined;undefined;lun.; 10 ago. 2020; 15:06:48
+3;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5484044;-33,0112583;40,39999771;0;19;150;undefined;undefined;undefined;0,764;undefined;undefined;lun.; 10 ago. 2020; 15:06:58
+4;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5484011;-33,0112576;40,59999847;0;19;150;undefined;undefined;undefined;0,764;undefined;undefined;lun.; 10 ago. 2020; 15:07:08
+5;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5481521;-33,0113489;40,59999847;5,9;18;150;undefined;undefined;undefined;76;77;undefined;lun.; 10 ago. 2020; 15:07:39
+6;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5474274;-33,0114606;40,59999847;7,4;18;155;undefined;undefined;undefined;76;77;undefined;lun.; 10 ago. 2020; 15:07:50
+7;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5467093;-33,0115679;40,59999847;6,4;18;135;undefined;undefined;undefined;75;76;undefined;lun.; 10 ago. 2020; 15:08:00
+8;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5458832;-33,0117158;40,59999847;8,1;18;139;undefined;undefined;undefined;76;85;undefined;lun.; 10 ago. 2020; 15:08:11
+9;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5450409;-33,011832;40,59999847;6,6;18;142;undefined;undefined;undefined;76;85;undefined;lun.; 10 ago. 2020; 15:08:22
+10;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,544321;-33,0119015;27,40947276;6,5;18;170;undefined;undefined;undefined;75;76;undefined;lun.; 10 ago. 2020; 15:08:32
+11;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5434943;-33,0120234;24,10947101;6,9;18;135;undefined;undefined;undefined;75;76;undefined;lun.; 10 ago. 2020; 15:08:42
+12;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,543082;-33,012089;23,56183762;0;18;135;undefined;undefined;undefined;75;76;undefined;lun.; 10 ago. 2020; 15:08:53
+13;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5430868;-33,0120885;39,79999924;0;18;134;undefined;undefined;undefined;75;76;undefined;lun.; 10 ago. 2020; 15:09:03
+14;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5430855;-33,0120893;40,59999847;0,5;18;142;undefined;undefined;undefined;77;85;undefined;lun.; 10 ago. 2020; 15:09:36
+15;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5430313;-33,0125903;40,59999847;6,6;18;152;undefined;undefined;undefined;76;77;undefined;lun.; 10 ago. 2020; 15:09:47
+16;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5432277;-33,0131892;40,59999847;7,4;18;186;undefined;undefined;undefined;75;76;undefined;lun.; 10 ago. 2020; 15:09:57
+17;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5433813;-33,0140783;40,59999847;9,7;18;166;undefined;undefined;undefined;75;76;undefined;lun.; 10 ago. 2020; 15:10:08
+18;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5441117;-33,0149752;40,59999847;10,7;18;203;undefined;undefined;undefined;75;76;undefined;lun.; 10 ago. 2020; 15:10:19
+19;mtHGoNLpRuSlcffnCsdrgXFBBBp2;-MEOm-2-41xbncnJU8b9;-71,5446076;-33,0156564;31,22677131;5,6;18;239;undefined;undefined;undefined;75;76;undefined;lun.; 10 ago. 2020; 15:10:29
+20;mtHGoNLpRuSlcffnCsdrgXFBBBp2;-MEOm1U4EChaOAvj_-7r;-71,5446704;-33,0158699;32,72958473;0,9;18;196;undefined;undefined;undefined;75;76;undefined;lun.; 10 ago. 2020; 15:10:39
+21;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5446817;-33,015867;39,39999771;0;18;193;undefined;undefined;undefined;76;85;undefined;lun.; 10 ago. 2020; 15:10:49
+22;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5446827;-33,0158691;39,29999924;1;18;187;undefined;undefined;undefined;75;76;undefined;lun.; 10 ago. 2020; 15:13:37
+23;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5447786;-33,0159543;39,39999771;0;18;208;undefined;undefined;undefined;75;76;undefined;lun.; 10 ago. 2020; 15:13:48
+24;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5449529;-33,0161409;39,39999771;8,1;18;200;undefined;undefined;undefined;75;76;undefined;lun.; 10 ago. 2020; 15:13:59
+25;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5455806;-33,0168909;39,39999771;8,8;18;160;undefined;undefined;undefined;75;76;undefined;lun.; 10 ago. 2020; 15:14:10
+26;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5463034;-33,0169085;39,39999771;8,1;18;223;undefined;undefined;undefined;75;76;undefined;lun.; 10 ago. 2020; 15:14:21
+27;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5471548;-33,0168071;39,39999771;7;18;234;undefined;undefined;undefined;76;85;undefined;lun.; 10 ago. 2020; 15:14:31
+28;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5478908;-33,0167265;39,39999771;7,5;18;214;undefined;undefined;undefined;75;76;undefined;lun.; 10 ago. 2020; 15:14:41
+29;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5487986;-33,0165656;34,18640601;7,5;18;223;undefined;undefined;undefined;76;85;undefined;lun.; 10 ago. 2020; 15:14:51
+30;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5494848;-33,0164689;34,38409738;0;18;220;undefined;undefined;undefined;75;76;undefined;lun.; 10 ago. 2020; 15:15:02
+31;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,549578;-33,0164776;41,59999847;3;18;283;undefined;undefined;undefined;75;76;undefined;lun.; 10 ago. 2020; 15:15:13
+32;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5502292;-33,016336;41,59999847;5,4;18;130;undefined;undefined;undefined;75;76;undefined;lun.; 10 ago. 2020; 15:15:23
+33;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5500037;-33,0155731;41,59999847;3,1;18;6;undefined;undefined;undefined;76;85;undefined;lun.; 10 ago. 2020; 15:15:33
+34;mtHGoNLpRuSlcffnCsdrgXFBBBp2;-MEOnBvXY-R4qOTlAMNo;-71,5499358;-33,0152532;41,19999695;7,2;18;143;undefined;undefined;undefined;76;85;undefined;lun.; 10 ago. 2020; 15:15:44
+35;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5497434;-33,0142314;41,19999695;13,6;18;64;undefined;undefined;undefined;76;85;undefined;lun.; 10 ago. 2020; 15:15:54
+36;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5494204;-33,0128982;41,19999695;12,3;18;1;undefined;undefined;undefined;77;85;undefined;lun.; 10 ago. 2020; 15:16:05
+37;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5493344;-33,0124039;41,19999695;0;18;156;undefined;undefined;undefined;85;85;undefined;lun.; 10 ago. 2020; 15:16:16
+38;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,549319;-33,0122469;41;5,9;18;198;undefined;undefined;undefined;75;76;undefined;lun.; 10 ago. 2020; 15:16:26
+39;mtHGoNLpRuSlcffnCsdrgXFBBBp2;-MEOnOsLILm8f-4XQd2j;-71,549127;-33,0113586;41;7,6;18;15;undefined;undefined;undefined;75;76;undefined;lun.; 10 ago. 2020; 15:16:37
+40;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5488528;-33,0112522;41;2,8;18;144;undefined;undefined;undefined;76;85;undefined;lun.; 10 ago. 2020; 15:16:47
+41;mtHGoNLpRuSlcffnCsdrgXFBBBp2;-MEOnSzp-9iRv4n1cMwE;-71,5487932;-33,0112789;40,59999847;0,1;18;164;In Vehicle;96%;undefined;76;77;undefined;lun.; 10 ago. 2020; 15:16:54
+42;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,548793;-33,0112804;40,59999847;0,2;18;163;In Vehicle;96%;undefined;77;85;undefined;lun.; 10 ago. 2020; 15:16:54
+43;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5487939;-33,0112852;40,59999847;0;18;139;undefined;undefined;undefined;76;77;undefined;lun.; 10 ago. 2020; 15:17:00
+44;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5487941;-33,0112856;40,59999847;0;18;129;In Vehicle;96%;undefined;76;77;undefined;lun.; 10 ago. 2020; 15:17:04
+45;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5487935;-33,0112875;40,59999847;0,6;18;139;undefined;undefined;undefined;0,861;85;undefined;lun.; 10 ago. 2020; 15:17:31
+46;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5487869;-33,0113146;40,59999847;0;18;138;In Vehicle;96%;undefined;85;85;undefined;lun.; 10 ago. 2020; 15:17:36
+47;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5487871;-33,0113159;40,59999847;0;18;103;undefined;undefined;undefined;76;85;undefined;lun.; 10 ago. 2020; 15:17:41
+48;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5486552;-33,0113171;40,39999771;5,6;18;136;In Vehicle;96%;undefined;76;85;undefined;lun.; 10 ago. 2020; 15:17:47
+49;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5482122;-33,0114002;40,39999771;8;18;102;undefined;undefined;undefined;77;85;undefined;lun.; 10 ago. 2020; 15:17:52
+50;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5477398;-33,0114921;40,39999771;8,2;18;99;In Vehicle;96%;undefined;75;76;undefined;lun.; 10 ago. 2020; 15:17:57
+51;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5472242;-33,0115666;40,39999771;8;18;126;undefined;undefined;undefined;76;77;undefined;lun.; 10 ago. 2020; 15:18:03
+52;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5468727;-33,0115974;40,39999771;8,4;18;98;In Vehicle;96%;undefined;76;77;undefined;lun.; 10 ago. 2020; 15:18:07
+53;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5465803;-33,0115318;40,39999771;4,1;18;21;undefined;undefined;undefined;75;76;undefined;lun.; 10 ago. 2020; 15:18:14
+54;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5465703;-33,011317;40,39999771;6,2;18;0;In Vehicle;96%;undefined;76;77;undefined;lun.; 10 ago. 2020; 15:18:18
+55;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5464859;-33,0109132;40,39999771;5,6;18;0;undefined;undefined;undefined;85;77;undefined;lun.; 10 ago. 2020; 15:18:25
+56;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5464294;-33,0106961;40,39999771;5,3;18;5;In Vehicle;96%;undefined;77;85;undefined;lun.; 10 ago. 2020; 15:18:29
+57;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5463315;-33,0103494;40,39999771;8;18;9;undefined;undefined;undefined;77;85;undefined;lun.; 10 ago. 2020; 15:18:35
+58;mtHGoNLpRuSlcffnCsdrgXFBBBp2;-MEOnrfCHUHq-9_QmRE4;-71,5462727;-33,0100383;40,39999771;8,2;18;10;In Vehicle;96%;undefined;76;77;undefined;lun.; 10 ago. 2020; 15:18:39
+59;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5461714;-33,0095249;38,06171447;5;18;52;undefined;undefined;undefined;85;85;undefined;lun.; 10 ago. 2020; 15:18:46
+60;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5459931;-33,0094907;40,81887795;6,1;18;119;In Vehicle;96%;undefined;76;85;undefined;lun.; 10 ago. 2020; 15:18:50
+61;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,545474;-33,0096349;44,5899568;7,2;18;109;undefined;undefined;undefined;85;76;undefined;lun.; 10 ago. 2020; 15:18:57
+62;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5452834;-33,0096999;45,26127726;5,5;18;101;In Vehicle;96%;undefined;76;85;undefined;lun.; 10 ago. 2020; 15:19:00
+63;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5451686;-33,0097274;45,00913841;0,2;18;104;undefined;undefined;undefined;76;85;undefined;lun.; 10 ago. 2020; 15:19:07
+64;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5451778;-33,0097068;44,96166655;0;18;110;In Vehicle;96%;undefined;76;85;undefined;lun.; 10 ago. 2020; 15:19:11
+65;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5449928;-33,00973;41,19999695;5,6;18;66;undefined;undefined;undefined;85;85;undefined;lun.; 10 ago. 2020; 15:19:18
+66;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5446537;-33,009785;41,19999695;6,9;18;98;In Vehicle;96%;undefined;85;85;undefined;lun.; 10 ago. 2020; 15:19:22
+67;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5442086;-33,0098522;41,19999695;6,3;18;111;undefined;undefined;undefined;76;85;undefined;lun.; 10 ago. 2020; 15:19:28
+68;mtHGoNLpRuSlcffnCsdrgXFBBBp2;-MEOo3bLoYJ_Oyd-4h9e;-71,5438993;-33,009891;41,19999695;6,2;18;101;In Vehicle;96%;undefined;75;76;undefined;lun.; 10 ago. 2020; 15:19:32
+69;mtHGoNLpRuSlcffnCsdrgXFBBBp2;-MEOo54T4VYQbofjWUp-;-71,5434615;-33,0099693;41,19999695;7,1;18;112;undefined;undefined;undefined;75;76;undefined;lun.; 10 ago. 2020; 15:19:38
+70;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5430745;-33,0100416;41,19999695;6,5;18;115;In Vehicle;96%;undefined;75;76;undefined;lun.; 10 ago. 2020; 15:19:43
+71;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5427578;-33,0100956;41,19999695;5,2;18;96;undefined;undefined;undefined;75;76;undefined;lun.; 10 ago. 2020; 15:19:48
+72;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5425188;-33,0101463;41,19999695;5,8;18;135;In Vehicle;96%;undefined;75;76;undefined;lun.; 10 ago. 2020; 15:19:53
+73;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5421534;-33,0101923;41,19999695;6,7;18;119;undefined;undefined;undefined;75;76;undefined;lun.; 10 ago. 2020; 15:19:58
+74;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5417801;-33,0102555;41,19999695;4,8;18;94;In Vehicle;96%;undefined;75;76;undefined;lun.; 10 ago. 2020; 15:20:04
+75;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5416746;-33,0102528;41,19999695;0,5;18;88;undefined;undefined;undefined;75;76;undefined;lun.; 10 ago. 2020; 15:20:08
+76;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5415995;-33,0100638;26,81471383;6,7;18;348;In Vehicle;96%;undefined;75;76;undefined;lun.; 10 ago. 2020; 15:20:15
+77;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5415924;-33,009741;28,08142175;8,6;18;328;undefined;undefined;undefined;75;76;undefined;lun.; 10 ago. 2020; 15:20:19
+78;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5417673;-33,0091827;32,20011553;8,5;18;307;In Vehicle;96%;undefined;75;76;undefined;lun.; 10 ago. 2020; 15:20:26
+79;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5419597;-33,0090239;32,70951526;8,9;18;282;undefined;undefined;undefined;76;77;undefined;lun.; 10 ago. 2020; 15:20:29
+80;mtHGoNLpRuSlcffnCsdrgXFBBBp2;-MEOoJEslq-3B98qsk_s;-71,5426706;-33,0088995;33,47299461;9,7;18;251;In Vehicle;96%;undefined;75;76;undefined;lun.; 10 ago. 2020; 15:20:36
+81;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5430668;-33,0088351;34,46151814;8,9;18;263;undefined;undefined;undefined;75;76;undefined;lun.; 10 ago. 2020; 15:20:40
+82;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5434343;-33,0087687;34,29117779;1,1;18;262;In Vehicle;96%;undefined;76;77;undefined;lun.; 10 ago. 2020; 15:20:47
+83;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5434116;-33,0087647;34,13264235;0,2;18;266;undefined;undefined;undefined;76;85;undefined;lun.; 10 ago. 2020; 15:20:50
+84;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5434095;-33,0087688;42,89999771;0;18;265;In Vehicle;96%;undefined;85;85;undefined;lun.; 10 ago. 2020; 15:20:58
+85;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5434152;-33,0087616;42,89999771;2,4;18;257;In Vehicle;96%;undefined;0,734;85;undefined;lun.; 10 ago. 2020; 15:21:09
+86;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5434926;-33,0087428;42,89999771;5;18;258;undefined;undefined;undefined;85;85;undefined;lun.; 10 ago. 2020; 15:21:11
+87;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5442699;-33,0086526;42,89999771;8,4;18;273;In Vehicle;96%;undefined;76;85;undefined;lun.; 10 ago. 2020; 15:21:20
+88;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5443615;-33,0086366;42,89999771;8,6;18;277;undefined;undefined;undefined;76;85;undefined;lun.; 10 ago. 2020; 15:21:21
+89;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5448947;-33,0084866;42,89999771;5,1;18;344;In Vehicle;96%;undefined;76;77;undefined;lun.; 10 ago. 2020; 15:21:30
+90;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,544848;-33,008355;42,89999771;6,6;18;358;undefined;undefined;undefined;76;77;undefined;lun.; 10 ago. 2020; 15:21:32
+91;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5446253;-33,0079832;41,79999924;4,9;18;9;In Vehicle;96%;undefined;76;77;undefined;lun.; 10 ago. 2020; 15:21:40
+92;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,544599;-33,0078496;41,79999924;4,9;18;2;undefined;undefined;undefined;77;85;undefined;lun.; 10 ago. 2020; 15:21:43
+93;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,544619;-33,0076366;43,39999771;0,7;20;308;In Vehicle;96%;undefined;0,694;85;undefined;lun.; 10 ago. 2020; 15:21:51
+94;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5446327;-33,0076194;43,39999771;1;20;347;undefined;undefined;undefined;85;85;undefined;lun.; 10 ago. 2020; 15:21:54
+95;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5446486;-33,0075448;41,69999695;0,1;20;313;In Vehicle;96%;undefined;1,023;85;undefined;lun.; 10 ago. 2020; 15:22:02
+96;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5446525;-33,0075309;41,69999695;0,9;20;320;undefined;undefined;undefined;0,726;85;undefined;lun.; 10 ago. 2020; 15:22:05
+97;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5447114;-33,0074162;40,79999924;0,9;21;359;undefined;undefined;undefined;100;85;undefined;lun.; 10 ago. 2020; 15:22:21
+98;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,544922;-33,0071097;43,5;2,5;21;260;undefined;undefined;undefined;100;85;undefined;lun.; 10 ago. 2020; 15:22:41
+99;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5453619;-33,0068233;40,39999771;4,1;21;263;undefined;undefined;undefined;100;85;undefined;lun.; 10 ago. 2020; 15:22:48
+100;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5456114;-33,0067381;40,39999771;3,2;21;231;undefined;undefined;undefined;100;85;undefined;lun.; 10 ago. 2020; 15:22:53
+101;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5456019;-33,0067527;43,39999771;0,3;21;201;undefined;undefined;undefined;100;85;undefined;lun.; 10 ago. 2020; 15:23:05
+102;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5456249;-33,0068504;40,39999771;0,6;21;186;undefined;undefined;undefined;100;85;undefined;lun.; 10 ago. 2020; 15:23:25
+103;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5457885;-33,0072234;43,39999771;3,2;21;176;undefined;undefined;undefined;100;85;undefined;lun.; 10 ago. 2020; 15:23:35
+104;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5458884;-33,0074045;43,39999771;1,3;21;180;undefined;undefined;undefined;100;85;undefined;lun.; 10 ago. 2020; 15:23:45
+105;mtHGoNLpRuSlcffnCsdrgXFBBBp2;#¿NOMBRE?;-71,5458722;-33,00737;43,39999771;0,6;21;190;In Vehicle;96%;undefined;100;85;undefined;lun.; 10 ago. 2020; 15:23:56

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb0d4e67-adb7-4faf-8faa-8471e2849164" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Analisis de Data/DATA_Ubi.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Analisis de Data/DATO_UBI2.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Analisis de Data/Info_DATA.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Analisis de Data/Info_DATA.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/callesVina.cpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/callesVina.dbf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/callesVina.prj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/callesVina.sbn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/callesVina.sbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/callesVina.shp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/callesVina.shp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/callesVina.shx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones1.cpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones1.dbf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones1.prj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones1.sbn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones1.sbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones1.shp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones1.shx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones10.CPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones10.dbf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones10.prj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones10.sbn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones10.sbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones10.shp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones10.shx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones11.cpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones11.dbf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones11.prj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones11.sbn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones11.sbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones11.shp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones11.shx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones2.cpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones2.dbf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones2.prj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones2.sbn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones2.sbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones2.shp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones2.shx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones3.cpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones3.dbf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones3.prj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones3.sbn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones3.sbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones3.shp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones3.shp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones3.shx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones4.cpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones4.dbf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones4.prj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones4.sbn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones4.sbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones4.shp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones4.shx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones5.cpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones5.dbf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones5.prj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones5.sbn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones5.sbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones5.shp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones5.shx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones6.cpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones6.dbf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones6.prj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones6.sbn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones6.sbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones6.shp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones6.shx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones7.cpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones7.dbf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones7.prj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones7.sbn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones7.sbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones7.shp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones7.shx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones8.cpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones8.dbf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones8.prj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones8.sbn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones8.sbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones8.shp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones8.shx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones9.cpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones9.dbf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones9.prj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones9.sbn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones9.sbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones9.shp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Data/ubicaciones9.shx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Geodatabase/Geodatabase.gdb/a00000057.gdbtable" beforeDir="false" afterPath="$PROJECT_DIR$/../ArcGIS/Geodatabase/Geodatabase.gdb/a00000057.gdbtable" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Geodatabase/Geodatabase.gdb/a00000060.freelist" beforeDir="false" afterPath="$PROJECT_DIR$/../ArcGIS/Geodatabase/Geodatabase.gdb/a00000060.freelist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Geodatabase/Geodatabase.gdb/a00000060.gdbtable" beforeDir="false" afterPath="$PROJECT_DIR$/../ArcGIS/Geodatabase/Geodatabase.gdb/a00000060.gdbtable" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Geodatabase/Geodatabase.gdb/a00000060.gdbtablx" beforeDir="false" afterPath="$PROJECT_DIR$/../ArcGIS/Geodatabase/Geodatabase.gdb/a00000060.gdbtablx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcGIS/Geodatabase/Geodatabase.gdb/a00000060.spx" beforeDir="false" afterPath="$PROJECT_DIR$/../ArcGIS/Geodatabase/Geodatabase.gdb/a00000060.spx" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1inU9eKBmcXKM3RS5MNPQZzeHg0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app-release.apk" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb0d4e67-adb7-4faf-8faa-8471e2849164" name="Default Changelist" comment="" />
+      <created>1602542699929</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602542699929</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

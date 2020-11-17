@@ -3,3 +3,5 @@ Los siguientes archivos fueron solicitados por el Product owner.
 Consistieron en analisis de la data en excel + graficos + min + mas + prom 
 
 y un comprimido para hacerle llegarle los datos solicitados.
+
+Resumen: La velocidad esta medida en M/S.
